@@ -1,4 +1,2 @@
 # Git
-Java
-Git/GitHub
-Python
+print (ask que)
